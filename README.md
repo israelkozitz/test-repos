@@ -5,4 +5,4 @@ line1
 
 change 2
 
-stash 3
+stash2&3
