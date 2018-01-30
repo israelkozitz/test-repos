@@ -4,3 +4,5 @@ this is chnge fro new_branch
 line1
 
 change 2
+
+stash 3
